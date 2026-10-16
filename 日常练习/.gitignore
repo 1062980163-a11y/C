@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# VSCode 自动生成
+.vscode/*.yml
+!.vscode/tasks.json
+
+# 编译&调试输出
+*.dSYM
+*.out
+*.o
