@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/liuzijie/Desktop/c learning/随机数"
+relocations:     []
+...
